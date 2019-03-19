@@ -45,7 +45,7 @@ image: assets/images/banner-ny-giants.png
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-nate.png" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-josh.png" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/teams-wild.png" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/teams-wild.png" alt="Good King Wenceslas" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-sean.png" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-amanda.png" alt="" /></span></div>
