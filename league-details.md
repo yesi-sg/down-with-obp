@@ -3,7 +3,7 @@ layout: landing
 title: League
 description: 2019 League Rules and Management
 nav-menu: true
-image: assets/images/banner-att-park.jpg
+image: assets/images/banner-vintage-babe.jpg
 ---
 
 ## OPENING DAY!
