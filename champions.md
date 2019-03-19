@@ -3,7 +3,7 @@ layout: landing
 title: Champions
 description: League champions by year
 nav-menu: true
-image: assets/images/banner-att-park.jpg
+image: assets/images/banner-seattle-pilots.jpg
 ---
 # YOU are a champion!
 
