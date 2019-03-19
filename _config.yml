@@ -1,7 +1,7 @@
 # site settings
 title: Down with OBP
 subtitle: Fantasy Baseball
-email: youremailaddress@gmail.com
+league: http://fantasy.espn.com/baseball/league?leagueId=96224
 description: A league made up of baseball nerds <br/> & highly competitive amateurs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url:  "//downwithobp.com" # the base hostname & protocol for your site
