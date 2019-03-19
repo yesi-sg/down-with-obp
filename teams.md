@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Teams
 description: Meet your 2019 competition.
 nav-menu: true
@@ -40,7 +40,7 @@ image: assets/images/banner-ny-giants.png
 
 
 <h4>Teams</h4>
-<span class="image fit"><img src="assets/images/banner-ny-giants.png" alt="" /></span>
+<!-- <span class="image fit"><img src="assets/images/banner-ny-giants.png" alt="" /></span> -->
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-nate.png" alt="" /></span></div>
