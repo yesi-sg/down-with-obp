@@ -8,4 +8,19 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+<!-- Image -->
+<h4>Meet the Teams</h4>
+<span class="image fit"><img src="assets/images/teams-josh.jpg" alt="" /></span>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-nate.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-sean.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/teams-amanda.jpg" alt="" /></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-wild.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-nichole.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/teams-andy.jpg" alt="" /></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-ryan.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-yesi.jpg" alt="" /></span></div>
+</div>
