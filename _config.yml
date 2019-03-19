@@ -18,8 +18,13 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 3
 
 # social settings
-github_url: https://github.com/yesi-sg/down-with-obp
-gitlab_url: https://gitlab.com/yesi.sg/down-with-obp
+espn_url: http://fantasy.espn.com/baseball/league?leagueId=96224
+recaps_url: 
+fangraphs_url: https://www.fangraphs.com/
+scores_url: https://www.mlb.com/scores
+schedule_url: http://mlb.mlb.com/mlb/schedule/
+# github_url: https://github.com/yesi-sg/down-with-obp
+# gitlab_url: https://gitlab.com/yesi.sg/down-with-obp
 
 # build settings
 markdown: kramdown
