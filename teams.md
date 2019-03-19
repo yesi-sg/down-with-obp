@@ -1,12 +1,28 @@
 ---
 layout: landing
 title: Teams
-description: League teams for 2019
+description: Meet your 2019 competition.
 image: assets/images/banner-att-park.jpg
 ---
 
-# Teams
-Meet your competition.
+<!-- Image -->
+<h3>Image</h3>
+
+<h4>Meet the Teams</h4>
+<span class="image fit"><img src="assets/images/teams-josh.jpg" alt="" /></span>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-nate.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-sean.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/teams-amanda.jpg" alt="" /></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-wild.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-nichole.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/teams-andy.jpg" alt="" /></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-ryan.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-yesi.jpg" alt="" /></span></div>
+</div>
 
 <table border="0">
 <tr><td>![Josh](/assets/teams-josh.png)</td><td>**Team**: The Balking Dead <br>**Location**: Sacramento, CA <br>**League Best**: 3rd, 2018 <br>**MLB Team**:  Oakland A's <br>**Street Name**: Josh </td>
