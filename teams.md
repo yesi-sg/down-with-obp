@@ -42,11 +42,11 @@ image: assets/images/banner-ny-giants.png
 		
 | | |
 |--|--|--|
-| ![Josh](/assets/image/teams-josh.png) |  **Team**: The Balking Dead <br>**Location**: Sacramento, CA <br>**League Best**: 3rd, 2018 <br>**MLB Team**:  Oakland A's <br>**Street Name**: Josh |
+| ![Josh](/assets/images/teams-josh.png) |  **Team**: The Balking Dead <br>**Location**: Sacramento, CA <br>**League Best**: 3rd, 2018 <br>**MLB Team**:  Oakland A's <br>**Street Name**: Josh |
 
 | | |
 |--|--|--|
-| ![Nate](/assets/image/teams-nate.png) | **Team**: Team Smitha <br>**Location**: Seattle, WA <br>**League Best**: 1st, 2015 (legacy) <br>**MLB Team**:  SF Giants <br>**Street Name**: Nate
+| ![Nate](/assets/images/teams-nate.png) | **Team**: Team Smitha <br>**Location**: Seattle, WA <br>**League Best**: 1st, 2015 (legacy) <br>**MLB Team**:  SF Giants <br>**Street Name**: Nate
 
 | | |
 |--|--|--|
