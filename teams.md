@@ -1,3 +1,10 @@
+---
+layout: landing
+title: Teams
+description: League teams for 2019
+image: assets/images/banner-att-park.jpg
+---
+
 # Teams
 Meet your competition.
 
