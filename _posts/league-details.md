@@ -1,4 +1,9 @@
-# League Details
+---
+layout: landing
+title: League
+description: 2019 League Rules and Management
+image: assets/images/banner-att-park.jpg
+---
 
 ## OPENING DAY!
 This year, the MLB season begins earlier than ever. <br>
@@ -31,7 +36,7 @@ Breakout is as follows:
 * Starting Pitchers: 4
 * Pitchers GS limit 200 (about 28.6 per slot)
 
-![Roster](/assets/league-roster.png)
+![Roster](/assets/images/league-roster.png)
 
 [**Review roster breakouts**](http://fantasy.espn.com/baseball/league/settings?leagueId=96224&view=rosters)
 
