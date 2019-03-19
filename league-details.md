@@ -49,12 +49,5 @@ League chat will be hosted on Telegram, where you can dish and be dished. Mostly
 
 [Download Telegram](https://telegram.org/)
 
-> What is Telegram? It's a free messaging app.<br>
-> Why Telegram over, say, Hangouts or What's App?
-- Not  What's App and therefore not Facebook
-- Desktop app and Gifs
-- Hangouts is limiting
->
-> Cool features? Link previews and Mute option if it gets too noisy.
 
 Visit [**ESPN League Settings**](http://fantasy.espn.com/baseball/league/settings?leagueId=96224&seasonId=2019&view=summary) for full summary of settings.
