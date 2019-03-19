@@ -11,10 +11,10 @@ image: assets/images/banner-att-park.png
 <h4>Teams</h4>
 <span class="image fit"><img src="assets/images/teams-josh.png" alt="" /></span>
 <div class="box alt">
-	<div class="row 50% uniform">
+	<div class="4u">
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-nate.png" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-sean.png" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/teams-amanda.png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-amanda.png" alt="" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-wild.png" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-nichole.png" alt="" /></span></div>
