@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: page
 title: Teams
 description: Meet your 2019 competition.
 image: assets/images/banner-ny-giants.png
