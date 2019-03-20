@@ -81,12 +81,12 @@ image: assets/images/banner-ny-giants.png
 			<br>
 			</span>
 		</div>
-	</div>
-</div>
+<!--	</div>
+</div> -->
 
-<!-- SECOND SET -->
+<!-- SECOND SET 
 <div class="box alt">
-	<div class="row 25% uniform">
+	<div class="row 25% uniform"> -->
 		<!-- Kevin -->
 		<div class="4u">
 			<center><h3>Lil' Haynes</h3></center>
@@ -100,7 +100,7 @@ image: assets/images/banner-ny-giants.png
 			</span>
 		</div>
 		<!-- Yesi -->
-		<div class="4u$">
+		<div class="4u">
 			<center><h3>Mad Bummer</h3></center>
 			<span class="image fit"><img src="assets/images/teams-yesi.png" alt="" /></span>
 			<span>
@@ -124,7 +124,7 @@ image: assets/images/banner-ny-giants.png
 			</span>
 		</div>
 		<!-- Andy -->
-		<div class="4u$">
+		<div class="4u">
 			<center><h3>Warren</h3></center>
 			<span class="image fit"><img src="assets/images/teams-andy.png" alt="" /></span>
 			<span>
