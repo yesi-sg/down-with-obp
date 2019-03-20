@@ -10,15 +10,18 @@ image: assets/images/banner-ny-giants.png
 <!--
 <section class="image fit">
 	<section>
-	<div class="4u"><span class="image fit"><img src="assets/images/teams-nate.png" alt="" /></span></div>
+	<div class="4u"><span class="image fit"><img src="assets/images/teams-nate-2.png" alt="" /></span></div>
 	</section>
 	<section>
 	<div class="4u"><span class="image fit"><img src="assets/images/teams-sean.png" alt="" /></span></div>
 	</section>
 	<section>
-	<div class="4u"><span class="image fit"><img src="assets/images/teams-amanda.png" alt="" /></span></div>
+	<div class="4u"><span class="image fit"><img src="assets/images/teams-amanda-2.png" alt="" /></span></div>
 	</section>
-	
+	<section>
+
+	<div class="4u"><span class="image fit"><img src="assets/images/teams-josh-2.png" alt="" /></span></div>
+	</section>
 	<section>
 	<div class="4u"><span class="image fit"><img src="assets/images/teams-wild.png" alt="" /></span></div>
 	</section>
