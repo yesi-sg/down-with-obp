@@ -8,7 +8,7 @@ image: assets/images/banner-ny-giants.png
 
 <!-- Image -->
 <div class="box alt">
-	<div class="row 25% uniform">
+	<div class="row 50% uniform">
 		<div class="4u">
 		<!-- Nate -->
 			<center><h2>Smitha</h2></center>
