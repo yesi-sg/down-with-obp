@@ -81,6 +81,12 @@ image: assets/images/banner-ny-giants.png
 			<br>
 			</span>
 		</div>
+	</div>
+</div>
+
+<!-- SECOND SET -->
+<div class="box alt">
+	<div class="row 25% uniform">
 		<!-- Kevin -->
 		<div class="4u">
 			<center><h3>Lil' Haynes</h3></center>
