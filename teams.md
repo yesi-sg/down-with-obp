@@ -112,7 +112,7 @@ image: assets/images/banner-ny-giants.png
 			</span>
 		</div>
 		<!-- Nichole -->
-		<div class="4u$">
+		<div class="4u">
 			<center><h3>Team Has No Name</h3></center>
 			<span class="image fit"><img src="assets/images/teams-nichole.png" alt="" /></span>
 			<span>
