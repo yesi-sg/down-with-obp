@@ -7,7 +7,7 @@ image: assets/images/banner-ny-giants.png
 ---
 
 <!-- Image -->
-<div class="box alt">
+<div class="spotlight">
 	<div class="row 25% uniform">
 		<div class="4u">
 		<!-- Nate -->
