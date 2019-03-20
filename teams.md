@@ -93,6 +93,7 @@ image: assets/images/banner-ny-giants.png
 			<br>
 			</span>
 		</div>
+		<hr>
 		<!-- Yesi -->
 		<div class="4u$">
 			<center><h3>Mad Bummer</h3></center>
