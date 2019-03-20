@@ -18,6 +18,7 @@ image: assets/images/banner-ny-giants.png
 			<br> <b>League Best:</b> 1st, 2015
 			<br> <b>MLB Team:</b> SF Giants
 			<br> <b>Street Name:</b> Nate
+			<br>
 			</span>
 		</div>
 		<!-- Amanda -->
@@ -29,6 +30,7 @@ image: assets/images/banner-ny-giants.png
 			<br> <b>League Best:</b> 1st, 2018
 			<br> <b>MLB Team:</b> Oakland A's
 			<br> <b>Street Name:</b> Amanda
+			<br>
 			</span>
 		</div>
 		<!-- Wild -->
@@ -40,6 +42,7 @@ image: assets/images/banner-ny-giants.png
 			<br> <b>League Best:</b> 1st, 2016
 			<br> <b>MLB Team:</b> Seattle Mariners
 			<br> <b>Street Name:</b> Jake
+			<br>
 			</span>
 		</div>
 		<!-- Sean -->
@@ -51,6 +54,7 @@ image: assets/images/banner-ny-giants.png
 			<br> <b>League Best:</b> 2nd, 2018
 			<br> <b>MLB Team:</b> Seattle Mariners
 			<br> <b>Street Name:</b> Sean
+			<br>
 			</span>
 		</div>
 		<!-- Josh -->
@@ -62,6 +66,7 @@ image: assets/images/banner-ny-giants.png
 			<br> <b>League Best:</b> 3rd, 2018
 			<br> <b>MLB Team:</b> Oakland A's
 			<br> <b>Street Name:</b> Josh
+			<br>
 			</span>
 		</div>
 		<!-- Ryan -->
@@ -73,6 +78,7 @@ image: assets/images/banner-ny-giants.png
 			<br> <b>League Best:</b> 2nd, 2017
 			<br> <b>MLB Team:</b> Seattle Mariners
 			<br> <b>Street Name:</b> Ryan
+			<br>
 			</span>
 		</div>
 		<!-- Kevin -->
@@ -84,6 +90,7 @@ image: assets/images/banner-ny-giants.png
 			<br> <b>League Best:</b> NA
 			<br> <b>MLB Team:</b> Seattle Mariners
 			<br> <b>Street Name:</b> Kevin
+			<br>
 			</span>
 		</div>
 		<!-- Yesi -->
@@ -95,6 +102,7 @@ image: assets/images/banner-ny-giants.png
 			<br> <b>League Best:</b> 2nd, 2016
 			<br> <b>MLB Team:</b> SF Giants
 			<br> <b>Street Name:</b> Yesi
+			<br>
 			</span>
 		</div>
 		<!-- Nichole -->
@@ -107,6 +115,7 @@ image: assets/images/banner-ny-giants.png
 			<br> <b>League Best:</b> 1st, 2017
 			<br> <b>MLB Team:</b> Seattle Mariners
 			<br> <b>Street Name:</b> Nichole
+			<br>
 			</span>
 		</div>
 		<!-- Andy -->
@@ -119,6 +128,7 @@ image: assets/images/banner-ny-giants.png
 			<br> <b>League Best:</b> 3rd, 2016
 			<br> <b>MLB Team:</b> Seattle Mariners
 			<br> <b>Street Name:</b> Andy
+			<br>
 			</span>
 		</div>
 	</div>
