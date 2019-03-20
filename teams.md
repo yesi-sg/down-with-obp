@@ -24,7 +24,7 @@ image: assets/images/banner-ny-giants.png
 	</div>
 </div>
 
-<span class=""image fit"><img src="assets/images/teams-meme-names.png" alt="" /></span>
+<span class="image fit"><img src="assets/images/teams-meme-names.png" alt="" /></span>
 
 <!-- table -->
 <!--
