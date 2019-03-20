@@ -1,4 +1,4 @@
-<!-- Contact -->
+<!-- Contact 
 <section id="contact">
 	<div class="inner">
 		<section>
@@ -20,26 +20,29 @@
 					<li><input type="reset" value="Clear" /></li>
 				</ul>
 			</form>
-		</section>
-		<section class="split">
+		</section> 
+-->
+<!--
+		<section class="contact">
 			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
-					<a href="#">{{ site.email }}</a>
+				<div class="inner">
+					 <span class="icon alt fa-etsy"></span> 
+					 <h3>[Team Management](http://fantasy.espn.com/baseball/league?leagueId=96224)</h3> 
+					<h3><a href="http://fantasy.espn.com/baseball/league?leagueId=96224"><span>ESPN</span></a></h3>
+					 <a href="#">{{ site.league }}</a> 
 				</div>
 			</section>
 			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
+				<div class="icons">
+					<span class="icon alt fa-pencil"></span>
+					<h3>Recaps</h3>
 					<span>{{ site.phone }}</span>
 				</div>
 			</section>
 			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
+				<div class="icons">
+					<span class="icon alt fa-bar-chart"></span>
+					<h3>[Fangraphs](https://www.fangraphs.com/)</h3>
 					<span>
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
@@ -57,12 +60,13 @@
 					    {{ site.country }}
 					{% endif %}
 					</span>
+				
 				</div>
 			</section>
 		</section>
 	</div>
 </section>
-
+-->
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
@@ -70,20 +74,20 @@
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
-				{% if site.googleplus_url %}
-				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
+				{% if site.espn_url %}
+				<li><a href="{{ site.espn_url }}" class="icon alt fa-etsy" target="_blank"><span class="label">ESPN</span></a></li>
 				{% endif %}
-				{% if site.facebook_url %}
-				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+				{% if site.recaps_url %}
+				<li><a href="{{ site.recaps_url }}" class="icon alt fa-pencil" target="_blank"><span class="label">Recaps</span></a></li>
 				{% endif %}
-				{% if site.instagram_url %}
-				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+				{% if site.fangraphs_url %}
+				<li><a href="{{ site.fangraphs_url }}" class="icon alt fa-bar-chart" target="_blank"><span class="label">Fangraphs</span></a></li>
 				{% endif %}
-				{% if site.pinterest_url %}
-				<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+				{% if site.scores_url %}
+				<li><a href="{{ site.scores_url }}" class="icon alt fa-braille" target="_blank"><span class="label">MLB Scores</span></a></li>
 				{% endif %}
-				{% if site.500px_url %}
-				<li><a href="{{ site.500px_url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
+				{% if site.schedule_url %}
+				<li><a href="{{ site.schedule_url }}" class="icon alt fa-calendar-o" target="_blank"><span class="label">MLB Schedule</span></a></li>
 				{% endif %}
 				{% if site.gitlab_url %}
 				<li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>

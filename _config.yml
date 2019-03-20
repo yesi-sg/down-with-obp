@@ -1,7 +1,7 @@
 # site settings
 title: Down with OBP
 subtitle: Fantasy Baseball
-email: youremailaddress@gmail.com
+league: http://fantasy.espn.com/baseball/league?leagueId=96224
 description: A league made up of baseball nerds <br/> & highly competitive amateurs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url:  "//downwithobp.com" # the base hostname & protocol for your site
@@ -18,8 +18,14 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 3
 
 # social settings
-github_url: https://github.com/yesi-sg/down-with-obp
-gitlab_url: https://gitlab.com/yesi.sg/down-with-obp
+espn_url: http://fantasy.espn.com/baseball/league?leagueId=96224/
+recaps_url: https://downwithobp.com/recaps/
+fangraphs_url: https://www.fangraphs.com/
+scores_url: https://www.mlb.com/scores/
+schedule_url: http://mlb.mlb.com/mlb/schedule/
+
+# github_url: https://github.com/yesi-sg/down-with-obp
+# gitlab_url: https://gitlab.com/yesi.sg/down-with-obp
 
 # build settings
 markdown: kramdown
