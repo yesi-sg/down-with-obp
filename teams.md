@@ -7,42 +7,6 @@ image: assets/images/banner-ny-giants.png
 ---
 
 <!-- Image -->
-<!--
-<section class="image fit">
-	<section>
-	<div class="4u"><span class="image fit"><img src="assets/images/teams-nate-2.png" alt="" /></span></div>
-	</section>
-	<section>
-	<div class="4u"><span class="image fit"><img src="assets/images/teams-sean.png" alt="" /></span></div>
-	</section>
-	<section>
-	<div class="4u"><span class="image fit"><img src="assets/images/teams-amanda-2.png" alt="" /></span></div>
-	</section>
-	<section>
-
-	<div class="4u"><span class="image fit"><img src="assets/images/teams-josh-2.png" alt="" /></span></div>
-	</section>
-	<section>
-	<div class="4u"><span class="image fit"><img src="assets/images/teams-wild.png" alt="" /></span></div>
-	</section>
-	<section>
-	<div class="4u"><span class="image fit"><img src="assets/images/teams-nichole.png" alt="" /></span></div>
-	</section>
-	<section>
-	<div class="4u$"><span class="image fit"><img src="assets/images/teams-andy.png" alt="" /></span></div>
-	</section>
-
-	<section>
-	<div class="4u"><span class="image fit"><img src="assets/images/teams-ryan.png" alt="" /></span></div>
-	</section>
-	<section>
-	<div class="4u"><span class="image fit"><img src="assets/images/teams-yesi.png" alt="" /></span></div>
-	</section>
-	</div>
-	</section> -->
-
-
-<h4>Teams</h4>
 <div class="box alt">
 	<div class="row 25% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-nate-2.png" alt="Nate" /></span></div>
@@ -50,7 +14,7 @@ image: assets/images/banner-ny-giants.png
 		<div class="4u$"><span class="image fit"><img src="assets/images/teams-wild.png" alt="Good King Wenceslas" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-sean.png" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/teams-josh-2.png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-josh-2.png" alt="" /></span><h4>**Team**: The Balking Dead <br>**Location**: Sacramento, CA <br>**League Best**: 3rd, 2018 <br>**MLB Team**:  Oakland A's <br>**Street Name**: Josh</h4></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-ryan.png" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-kevin.png" alt="" /></span></div>
