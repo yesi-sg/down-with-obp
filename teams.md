@@ -14,7 +14,7 @@ image: assets/images/banner-ny-giants.png
 		<div class="4u$"><span class="image fit"><img src="assets/images/teams-wild.png" alt="Good King Wenceslas" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-sean.png" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/teams-josh-2.png" alt="" /></span><h4>*Team*: The Balking Dead <br>*Location*: Sacramento, CA <br>*League Best*: 3rd, 2018 <br>*MLB Team*:  Oakland A's <br>*Street Name*: Josh</h4></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-josh-2.png" alt="" /></span><span>*Team*: The Balking Dead <br>*Location*: Sacramento, CA <br>*League Best*: 3rd, 2018 <br>*MLB Team*:  Oakland A's <br>*Street Name*: Josh</span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-ryan.png" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-kevin.png" alt="" /></span></div>
