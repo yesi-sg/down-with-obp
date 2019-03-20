@@ -64,8 +64,6 @@ Let's have what we had in 2016. No roster snafu's. More recaps. <br>
 This league will be administrated by Yesi. Input and recap contributions from teams are encouraged and desired. 
 
 ## CHAT
-League chat will be hosted on Telegram, where you can dish and be dished. Mostly, it'll be a great way to share baseball news, fun facts, bloopers, and discuss group events other than email threads or side conversations.
-
-[Download Telegram](https://telegram.org/)
+League chat will be hosted on Telegram, where you can dish and be dished. Mostly, it'll be a great way to share baseball news, fun facts, bloopers, and discuss group events other than email threads or side conversations. [Download Telegram](https://telegram.org/)
 
 Visit [**ESPN League Settings**](http://fantasy.espn.com/baseball/league/settings?leagueId=96224&seasonId=2019&view=summary) for full summary of settings.
