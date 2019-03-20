@@ -14,7 +14,7 @@ image: assets/images/banner-ny-giants.png
 		<div class="4u$"><span class="image fit"><img src="assets/images/teams-wild.png" alt="Good King Wenceslas" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-sean.png" alt="" /></span></div>
-		<div class="4u"; align:"Center">
+		<div class="4u"> <center>
 			<h3>The Balking Dead</h3>
 			<span class="image fit"><img src="assets/images/teams-josh-2.png" alt=""/></span>
 			<span>
@@ -23,6 +23,7 @@ image: assets/images/banner-ny-giants.png
 			<br> <b>MLB Team:</b> Oakland A's
 			<br> <b>Street Name:</b> Josh
 			</span>
+			</center>
 		</div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-ryan.png" alt="" /></span></div>
