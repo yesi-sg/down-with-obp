@@ -8,10 +8,10 @@ image: assets/images/banner-ny-giants.png
 
 <!-- Image -->
 <div class="box alt">
-	<div class="row 50% uniform">
+	<div class="row 25% uniform">
 		<div class="4u">
 		<!-- Nate -->
-			<center><h2>Smitha</h2></center>
+			<center><h3>Smitha</h3></center>
 			<span class="image fit"><img src="assets/images/teams-nate-2.png" alt="" /></span>
 			<span>
 			<b>Location:</b> Seattle, WA
@@ -23,7 +23,7 @@ image: assets/images/banner-ny-giants.png
 		</div>
 		<!-- Amanda -->
 		<div class="4u">
-			<center><h2>Ready to Win</h2></center>
+			<center><h3>Ready to Win</h3></center>
 			<span class="image fit"><img src="assets/images/teams-amanda-2.png" alt=""/></span>
 			<span>
 			<b>Location:</b> Sacramento, CA
@@ -35,7 +35,7 @@ image: assets/images/banner-ny-giants.png
 		</div>
 		<!-- Wild -->
 		<div class="4u$">
-			<center><h2>Good King Wenceslas</h2></center>
+			<center><h3>Good King Wenceslas</h3></center>
 			<span class="image fit"><img src="assets/images/teams-wild.png" alt=""/></span>
 			<span>
 			<b>Location:</b> Seattle, WA
@@ -47,7 +47,7 @@ image: assets/images/banner-ny-giants.png
 		</div>
 		<!-- Sean -->
 		<div class="4u">
-			<center><h2>Oh Oh Oh Tani </h2></center>
+			<center><h3>Oh Oh Oh Tani </h3></center>
 			<span class="image fit"><img src="assets/images/teams-sean.png" alt="" /></span>
 			<span>
 			<b>Location:</b> Seattle, WA
@@ -59,7 +59,7 @@ image: assets/images/banner-ny-giants.png
 		</div>
 		<!-- Josh -->
 		<div class="4u">
-			<center><h2>The Balking Dead</h2></center>
+			<center><h3>The Balking Dead</h3></center>
 			<span class="image fit"><img src="assets/images/teams-josh-2.png" alt=""/></span>
 			<span>
 			<b>Location:</b> Sacramento, CA
@@ -71,7 +71,7 @@ image: assets/images/banner-ny-giants.png
 		</div>
 		<!-- Ryan -->
 		<div class="4u">
-			<center><h2>King In The East?</h2></center>
+			<center><h3>King In The East?</h3></center>
 			<span class="image fit"><img src="assets/images/teams-ryan.png" alt="" /></span>
 			<span>
 			<b>Location:</b> Washington, DC
@@ -83,7 +83,7 @@ image: assets/images/banner-ny-giants.png
 		</div>
 		<!-- Kevin -->
 		<div class="4u">
-			<center><h2>Lil' Haynes</h2></center>
+			<center><h3>Lil' Haynes</h3></center>
 			<span class="image fit"><img src="assets/images/teams-kevin.png" alt="" /></span>
 			<span>
 			<b>Location:</b> Redmond, WA
@@ -95,7 +95,7 @@ image: assets/images/banner-ny-giants.png
 		</div>
 		<!-- Yesi -->
 		<div class="4u$">
-			<center><h2>Mad Bummer</h2></center>
+			<center><h3>Mad Bummer</h3></center>
 			<span class="image fit"><img src="assets/images/teams-yesi.png" alt="" /></span>
 			<span>
 			<b>Location:</b> Seattle, WA
@@ -108,7 +108,7 @@ image: assets/images/banner-ny-giants.png
 		<!-- Nichole -->
 		<br>
 		<div class="4u$">
-			<center><h2>Team Has No Name</h2></center>
+			<center><h3>Team Has No Name</h3></center>
 			<span class="image fit"><img src="assets/images/teams-nichole.png" alt="" /></span>
 			<span>
 			<b>Location:</b> Seattle, WA
@@ -121,7 +121,7 @@ image: assets/images/banner-ny-giants.png
 		<!-- Andy -->
 		<br>
 		<div class="4u$">
-			<center><h2>Warren</h2></center>
+			<center><h3>Warren</h3></center>
 			<span class="image fit"><img src="assets/images/teams-andy.png" alt="" /></span>
 			<span>
 			<b>Location:</b> Tempe, AZ
