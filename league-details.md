@@ -16,7 +16,6 @@ This year were going H2H Categories scorting format! Go head-to-head with one op
 - Batting: **R, HR, RBI, SB, AVG, OBP**
 - Pitching: **K, W, SV, ERA, WHIP**
 - Fielding: **DPT, E**
-_may change slightly based on group feedback_
 
 What is H2H Each Category?
 * H2H Each Category is the most common type of head-to-head play in fantasy baseball. It allows you to select the "X" number of statistical categories. For each scoring period, team totals are accumulated and a win, loss or tie is credited in each category based on the matchup results (i.e. 6-3-1 in a 10 category league). [Learn more](https://support.espn.com/hc/en-us/articles/360003913972-Scoring-Formats)
