@@ -21,7 +21,6 @@ image: assets/images/banner-ny-giants.png
 			</span>
 		</div>
 		<!-- Amanda -->
-		<br>
 		<div class="4u">
 			<center><h4>Ready to Win</h4></center>
 			<span class="image fit"><img src="assets/images/teams-amanda-2.png" alt=""/></span>
@@ -33,7 +32,6 @@ image: assets/images/banner-ny-giants.png
 			</span>
 		</div>
 		<!-- Wild -->
-		<br>
 		<div class="4u$">
 			<center><h4>Good King Wenceslas</h4></center>
 			<span class="image fit"><img src="assets/images/teams-wild.png" alt=""/></span>
@@ -45,7 +43,6 @@ image: assets/images/banner-ny-giants.png
 			</span>
 		</div>
 		<!-- Sean -->
-		<br>
 		<div class="4u">
 			<center><h4>Oh Oh Oh Tani </h4></center>
 			<span class="image fit"><img src="assets/images/teams-sean.png" alt="" /></span>
@@ -57,7 +54,6 @@ image: assets/images/banner-ny-giants.png
 			</span>
 		</div>
 		<!-- Josh -->
-		<br>
 		<div class="4u">
 			<center><h4>The Balking Dead</h4></center>
 			<span class="image fit"><img src="assets/images/teams-josh-2.png" alt=""/></span>
@@ -69,7 +65,6 @@ image: assets/images/banner-ny-giants.png
 			</span>
 		</div>
 		<!-- Ryan -->
-		<br>
 		<div class="4u">
 			<center><h4>King In The East?</h4></center>
 			<span class="image fit"><img src="assets/images/teams-ryan.png" alt="" /></span>
@@ -81,7 +76,6 @@ image: assets/images/banner-ny-giants.png
 			</span>
 		</div>
 		<!-- Kevin -->
-		<br>
 		<div class="4u">
 			<center><h4>Lil' Haynes</h4></center>
 			<span class="image fit"><img src="assets/images/teams-kevin.png" alt="" /></span>
@@ -93,7 +87,6 @@ image: assets/images/banner-ny-giants.png
 			</span>
 		</div>
 		<!-- Yesi -->
-		<br>
 		<div class="4u$">
 			<center><h4>Mad Bummer</h4></center>
 			<span class="image fit"><img src="assets/images/teams-yesi.png" alt="" /></span>
