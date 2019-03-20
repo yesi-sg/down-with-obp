@@ -7,27 +7,26 @@ image: assets/images/banner-vintage-ruth.jpg
 ---
 
 ## OPENING DAY!
-This year, the MLB season begins earlier than ever. <br>
-**Opening Day is March 28, 2019**, the earliest opening day in history outside of international openers. All 30 teams will play on this day.
+This year, the MLB season begins earlier than ever. <br> **Opening Day is March 28, 2019**, the earliest opening day in history outside of international openers. All 30 teams will play on this day.
 
 ## SCORING
 This year were going H2H Categories scorting format! Go head-to-head with one opponent each week, earning a win or loss for each stat category.
+
+### Scoring Categories
+- Batting: **R, HR, RBI, SB, AVG, OBP**
+- Pitching: **K, W, SV, ERA, WHIP**
+- Fielding: **DPT, E**
+_may change slightly based on group feedback_
 
 What is H2H Each Category?
 * H2H Each Category is the most common type of head-to-head play in fantasy baseball. It allows you to select the "X" number of statistical categories. For each scoring period, team totals are accumulated and a win, loss or tie is credited in each category based on the matchup results (i.e. 6-3-1 in a 10 category league). [Learn more](https://support.espn.com/hc/en-us/articles/360003913972-Scoring-Formats)
 
 There will be *no* divisions.
 
-### League Scoring Categories
-_may change slightly based on group feedback_
-- Batting: **R, HR, RBI, SB, AVG, OBP**
-- Pitching: **K, W, SV, ERA, WHIP**
-- Fielding: **DPT, E**
 
 [**Review scoring categories**](http://fantasy.espn.com/baseball/league/settings?leagueId=96224&view=scoring)
 
 ## ROSTERS
-Breakout is as follows:
 * Roster size: 30
 * Total Starters: 21
 * Total Bench: 9
