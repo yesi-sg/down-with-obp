@@ -12,9 +12,9 @@ image: assets/images/banner-ny-giants.png
 		<div class="4u">
 		<!-- Nate -->
 		<center><h3>Smitha</h3></center>
-			<span class="image fit"><img src="assets/images/teams-nate-2.png" alt="" /></span>
+			<!--<span class="image fit"><img src="assets/images/teams-nate-2.png" alt="" /></span> -->
 			<span>
-			<a class="icon alt fa-map-marker" >...... Seattle, WA</a>
+			<a class="icon alt fa-map-marker" >...... Seattle, WA</a> <br>
 			<br> <a class="icon alt fa-trophy">..... 1st, 2015</a> <br>
 			<br> <a class="icon alt fa-thumbs-o-up">...... SF Giants</a> <br>
 			<br> <a class="icon alt fa-user">..... Nate</a> <br>
