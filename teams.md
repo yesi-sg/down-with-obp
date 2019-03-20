@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Teams
-description: Meet your 2019 competition.
+description: Meet your 2019 competition
 nav-menu: true
 image: assets/images/banner-ny-giants.png
 ---
