@@ -15,11 +15,7 @@ image: assets/images/banner-ny-giants.png
 			<span class="image fit"><img src="assets/images/teams-nate-2.png" alt="" /></span>
 			<span>
 			<a class="icon alt fa-map-marker" > Seattle, WA</a>
-			<br> <a class="icon alt fa-trophy"> 1st, 2015</a>
-				
-				
-			
-			<br> <b>MLB Team:</b> SF Giants
+			<br> <a class="icon alt fa-trophy"> 1st, 2015</a>												<br> <b>MLB Team:</b> SF Giants
 			<br> <b>Street Name:</b> Nate
 			<br>
 			</span>
