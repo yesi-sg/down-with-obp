@@ -107,7 +107,7 @@ image: assets/images/banner-ny-giants.png
 		</div>
 		<!-- Nichole -->
 		<div class="4u$">
-			<center><h3>Has No Name</h3></center>
+			<center><h3>Team Has No Name</h3></center>
 			<span class="image fit"><img src="assets/images/teams-nichole.png" alt="" /></span>
 			<span>
 			<b>Location:</b> Seattle, WA
