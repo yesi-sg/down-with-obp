@@ -106,9 +106,8 @@ image: assets/images/banner-ny-giants.png
 			</span>
 		</div>
 		<!-- Nichole -->
-		<br>
 		<div class="4u$">
-			<center><h3>Team Has No Name</h3></center>
+			<center><h3>Has No Name</h3></center>
 			<span class="image fit"><img src="assets/images/teams-nichole.png" alt="" /></span>
 			<span>
 			<b>Location:</b> Seattle, WA
@@ -119,7 +118,6 @@ image: assets/images/banner-ny-giants.png
 			</span>
 		</div>
 		<!-- Andy -->
-		<br>
 		<div class="4u$">
 			<center><h3>Warren</h3></center>
 			<span class="image fit"><img src="assets/images/teams-andy.png" alt="" /></span>
