@@ -43,22 +43,23 @@ image: assets/images/banner-ny-giants.png
 
 
 <h4>Teams</h4>
-<span class="image fit"><img src="assets/images/teams-meme-names.png" alt="" /></span>
 <div class="box alt">
 	<div class="row 25% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-nate-2.png" alt="Nate" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/teams-josh-2.png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-amanda-2.png" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/teams-wild.png" alt="Good King Wenceslas" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-sean.png" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/teams-amanda-2.png" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/teams-nichole.png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/teams-josh-2.png" alt="" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-ryan.png" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-kevin.png" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/teams-yesi.png" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/teams-nichole.png" alt="" /></span></div>
 	</div>
 </div>
+
+<span class=""row 25% uniform"><img src="assets/images/teams-meme-names.png" alt="" /></span>
 
 <!-- table -->
 <!--
