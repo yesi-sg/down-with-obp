@@ -11,15 +11,16 @@ image: assets/images/banner-ny-giants.png
 	<div class="row 25% uniform">
 		<div class="4u">
 		<!-- Nate -->
-		<center><h3>Smitha</h3></center>
-		<span>
-		<a class="icon alt fa-map-marker" > Seattle, WA</a>
-		<br> <a class="icon alt fa-trophy"> 1st, 2015</a>
-		<br> <a class="icon alt fa-thumbs-o-up"> SF Giants</a>
-		<br> <a class="icon alt fa-user"> Nate</a>
-		<br>
-		</span>
+		<center><h3>Smitha</h3>
 			<span class="image fit"><img src="assets/images/teams-nate-2.png" alt="" /></span>
+			<span>
+			<a class="icon alt fa-map-marker" > Seattle, WA</a>
+			<br> <a class="icon alt fa-trophy"> 1st, 2015</a>
+			<br> <a class="icon alt fa-thumbs-o-up"> SF Giants</a>
+			<br> <a class="icon alt fa-user"> Nate</a>
+			<br>
+			</span>
+		</center>
 		</div>
 		<!-- Amanda -->
 		<div class="4u">
