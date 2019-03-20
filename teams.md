@@ -56,10 +56,11 @@ image: assets/images/banner-ny-giants.png
 		<div class="4u"><span class="image fit"><img src="assets/images/teams-kevin.png" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/teams-yesi.png" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/teams-nichole.png" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/teams-andy.png" alt="" /></span></div>
 	</div>
 </div>
 
-<span class=""row 25% uniform"><img src="assets/images/teams-meme-names.png" alt="" /></span>
+<span class=""image fit"><img src="assets/images/teams-meme-names.png" alt="" /></span>
 
 <!-- table -->
 <!--
