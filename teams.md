@@ -14,7 +14,7 @@ image: assets/images/banner-ny-giants.png
 			<center><h3>Smitha</h3></center>
 			<span class="image fit"><img src="assets/images/teams-nate-2.png" alt="" /></span>
 			<span>
-			<b>Location:</b> Seattle, WA
+			<a class="icon alt fa-map-marker" target="_blank"><span class="label">Seattle, WA</span></a>
 			<br> <b>League Best:</b> 1st, 2015
 			<br> <b>MLB Team:</b> SF Giants
 			<br> <b>Street Name:</b> Nate
