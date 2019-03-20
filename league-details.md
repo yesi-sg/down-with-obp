@@ -7,7 +7,7 @@ image: assets/images/banner-vintage-ruth.jpg
 ---
 
 ## OPENING DAY!
-This year, the MLB season begins earlier than ever. <br> **Opening Day is March 28, 2019**, the earliest opening day in history outside of international openers. All 30 teams will play on this day.
+This year, the MLB season begins earlier than ever. **Opening Day is March 28, 2019**, the earliest opening day in history outside of international openers. All 30 teams will play on this day.
 
 ## SCORING
 This year were going H2H Categories scorting format! Go head-to-head with one opponent each week, earning a win or loss for each stat category.
