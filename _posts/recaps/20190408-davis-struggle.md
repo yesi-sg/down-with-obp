@@ -1,6 +1,10 @@
-# Chris Davis for IL
-
-> OBP League Updates #9 | 2019-04-08
+---
+layout: posts
+title: Chris Davis for IL
+description: OBP League Update #9 | 2019-04-08
+nav-menu: true
+image: assets/images/banner-sandlot.jpg
+---
 
 If you paid any attention to anything baseball you would have found a few of your prized draft picks adorned with an `IL 10` or worse.  At least no one earned their injuries on a dirt bike this year. Only `Readytowinagain` and `Warren` came out with an open IL spot on their roster. Congrats?
 
