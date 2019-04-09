@@ -17,6 +17,9 @@ phone:
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 3
 
+ptiles-source: posts
+ptiles-count: 3
+
 # social settings
 espn_url: http://fantasy.espn.com/baseball/league?leagueId=96224/
 recaps_url: https://downwithobp.com/recaps.html
