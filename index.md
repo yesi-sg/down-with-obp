@@ -7,5 +7,3 @@ image: /assets/images/banner-att-park.jpg
 author: null
 show_tile: false
 ---
-
-> Coming soon!
