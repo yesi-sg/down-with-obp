@@ -18,7 +18,7 @@
 
 <!-- ARTICLE     -->
 	<article>
-	<div class="icons">
+	<div class="inner">
           {% for post in site.posts %}
 	  {% if post.title != 404 %}
 	    <header class="major">
@@ -34,7 +34,7 @@
 	
 <!-- TILES  -->
 	<article>
-	<div class="icons">
+	<div class="inner">
           {% for post in site.posts %}
 	  {% if post.title != 404 %}
 	    {% include ptiles.html %}
