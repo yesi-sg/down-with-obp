@@ -15,7 +15,11 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 4
+tiles-count: 3
+
+# post tiles
+tiles-source: posts
+tiles-count: 2
 
 # social settings
 espn_url: http://fantasy.espn.com/baseball/league?leagueId=96224/
