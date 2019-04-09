@@ -4,7 +4,7 @@ title: Recaps
 landing-title: 'All Recaps'
 nav-menu: true
 description: All league recaps
-image: assets/images/banner-league-of-their-own.jpg
+image: assets/images/banner-league-of-their-own
 author: null
 show_tile: true
 ---
