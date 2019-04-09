@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: All Recaps
+title: Recaps
 landing-title: 'All Recaps'
 nav-menu: true
 description: All league recaps
