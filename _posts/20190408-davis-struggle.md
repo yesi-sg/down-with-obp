@@ -2,7 +2,7 @@
 layout: post
 title: Chris Davis for IL
 description: OBP League Update #9 | 2019-04-08
-nav-menu: true
+nav-menu: false
 image: assets/images/banner-sandlot.jpg
 ---
 
