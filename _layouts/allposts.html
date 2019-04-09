@@ -17,7 +17,7 @@
     <div id="main" class="alt">
 
 <!-- ARTICLE     -->
-	<article>
+<!-- 	<article>
 	<div class="inner">
           {% for post in site.posts %}
 	  {% if post.title != 404 %}
@@ -30,8 +30,27 @@
 	  {% endif %}
           {% endfor %}
 		</div>
-	  </article>
-      <!-- One -->
+	  </article> -->
+	
+
+<!-- Banner type content list -->
+       <section id="banner" class="style2">
+            <div class="inner">
+          {% for post in site.posts %}
+	  {% if post.title != 404 %}
+	    <header class="major">
+	      <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
+		<p>{{ post.description }}</p>
+		{% if post.image %}<a href="{{ post.url  | relative_url }}"><span class="image fit"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+	    </header>
+<!-- 		<p>{{ post.content }}</p> -->
+	  {% endif %}
+          {% endfor %}
+		</div>
+        </section>
+	       
+	       
+	<!-- One -->
 <!--       <section id="one">
 	<div class="inner">
           {% for post in site.posts %}
@@ -47,8 +66,7 @@
 	</div>
       </section> -->
 
-    </div>
-
+</div>
     <!-- {% include footer.html %} -->
 
   </body>
