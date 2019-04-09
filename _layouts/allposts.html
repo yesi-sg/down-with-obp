@@ -23,10 +23,11 @@
 	  {% if post.title != 404 %}
 	    <header class="major">
 	      <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
+		<p>{{ post.description }}</p>
 		{% if post.image %}<span class="image fit"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-	      <p>{{ post.description }}</p>
+		    <a href="{{ post.url  | relative_url }}" class="link">{{ post.image }}</a>
 	    </header>
-		{% endif %}
+	  {% endif %}
           {% endfor %}
 		</div>
 	  </article>
