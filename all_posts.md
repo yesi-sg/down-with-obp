@@ -1,12 +1,12 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: All Recaps
+landing-title: 'All Recaps'
 nav-menu: true
-description: All league updates
+description: All league recaps
 image: assets/images/banner-sandlot.jpg
 author: null
 show_tile: true
 ---
 
-<h1>All posts</h1>
+<h1>All Recaps</h1>
