@@ -19,7 +19,7 @@ Although the wins were enough to boost Good King to top of the ranks, OBP and pi
 
 ## Matchup Highlights
 
-### Smitha v Balking Dead
+### Smitha (8) v Balking Dead (3)
 At first glance this match may look like a regular schooling of sorts, but look at the margin. Dear. Lord. It’s a miracle there wasn’t a sweep. Brace yourself `Warren`, because your next matchup won’t be as calm as your last.
 
 ![](/assets/images/recaps/20190408-post-matchup-1.png)
