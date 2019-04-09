@@ -17,7 +17,7 @@
     <div id="main" class="alt">
 
 <!-- ARTICLE     -->
-	<list>
+	<article>
 	<div class="icons">
           {% for post in site.posts %}
 	  {% if post.title != 404 %}
@@ -30,9 +30,20 @@
 	  {% endif %}
           {% endfor %}
 		</div>
-	  </list>
+	  </article>
 	
-	       
+<!-- TILES  -->
+	<article>
+	<div class="icons">
+          {% for post in site.posts %}
+	  {% if post.title != 404 %}
+	    {% include ptiles.html %}
+	  {% endif %}
+          {% endfor %}
+		</div>
+	  </article>
+		
+		
 	<!-- One -->
 <!--       <section id="one">
 	<div class="inner">
