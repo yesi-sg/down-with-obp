@@ -33,10 +33,11 @@
         <!-- One -->
         {% include tiles.html %}
 	    
-	!-- One Posts-->
-        # post tiles
-	tiles-source: posts # accepts "posts" or "pages"
-	tiles-count: 3
+	<!-- One Posts Tiles-->
+	{% include tiles.html
+	    tiles-source: posts # accepts "posts" or "pages"
+		tiles-count: 3
+	     %}
 
         <!-- Two -->
         <section id="two">
