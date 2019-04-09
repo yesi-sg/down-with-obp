@@ -25,7 +25,7 @@ At first glance this match may look like a regular schooling of sorts, but look 
 ![](/assets/images/recaps/20190408-post-matchup-1.png)
 
 ### King in the East? (4) vs Mad Bummer (7)
-What started off as a slaughter turned out to be a close matchup.  Marred by IL it’s no wonder both teams had similar transaction activity.
+What started off as a slaughter turned out to be a close matchup.  Marred by IL it’s no wonder both teams were moving in transactions.
 ![](/assets/images/recaps/20190409-post-matchup-2.png)
 
 ### Oh Oh Oh Tani (2nd) vs Larry Bernandez (9th)
@@ -33,7 +33,7 @@ If this was a bike race instead of a fantasy baseball matchup the score would ha
 ![](/assets/images/recaps/20190408-post-matchup-3.png)
 
 ### Participation Ribbons
-* `Team Has No Name` (10) - let’s chock the last matchup to a fluke. Hopefully the matchup right-sets all your stats.
+* `Team Has No Name` (10) - let’s chock the last matchup to a fluke. Hopefully next matchup right-sets all your stats.
 * `Readytowinagain` (5) - your last matchup was a walk in the park, don’t expect the same against Good King.
 * `Warren` (6) - your next opponent has a great roster, manage the hell out of yours and try to keep up.
 
