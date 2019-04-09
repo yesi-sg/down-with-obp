@@ -16,7 +16,6 @@ phone:
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 3
-
 ptiles-source: posts
 ptiles-count: 3
 
