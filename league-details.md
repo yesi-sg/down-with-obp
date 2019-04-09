@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: landing
 title: League
 description: 2019 League Details
 nav-menu: true
