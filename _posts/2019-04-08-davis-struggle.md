@@ -8,7 +8,7 @@ image: assets/images/banner-sandlot.jpg
 
 If you paid any attention to anything baseball you would have found a few of your prized draft picks adorned with an `IL 10` or worse.  At least no one earned their injuries on a dirt bike this year. Only `Readytowinagain` and `Warren` came out with an open IL spot on their roster. Congrats?
 
-Also, Chris Davis is having the toughest of starts. [Davis IL 200 days and counting](http://www.espn.com/mlb/story/_/id/26474373/what-need-know-chris-davis-0-49-streak). So no matter how poorly you scored, just remember, it not 0 - 49.
+Also, Chris Davis is having the [toughest of starts.](http://www.espn.com/mlb/story/_/id/26474373/what-need-know-chris-davis-0-49-streak). So no matter how poorly you scored, just remember, it not 0 - 44.
 
 ## Sea to Shining Sea MVP
 Leading the pack with an impressive 10-3 win and swimming laps in the free agent pool - `Good King Wenceslas`!  Heat was in the very sod… twas.
