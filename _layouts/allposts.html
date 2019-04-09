@@ -18,13 +18,17 @@
 
 <!-- ARTICLE     -->
 	<article>
-	    <span class="image fit">
-	      <img src="{{ site.baseurl }}/{{ post.image }}" alt="" />
-	    </span>
+	<div class="inner">
+          {% for post in site.posts %}
+	  {% if post.title != 404 %}
 	    <header class="major">
 	      <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
+		{% if post.image %}<span class="image fit"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
 	      <p>{{ post.description }}</p>
 	    </header>
+		{% endif %}
+          {% endfor %}
+		</div>
 	  </article>
       <!-- One -->
 <!--       <section id="one">
