@@ -24,8 +24,8 @@
 	  <header class="major">
 	    <h1>{{ post.title }}</h1>
 	  </header>
-		> {% if post.description %}<p>{{ post.description }}</p>{% endif %}
-	  	{% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+		{% if post.description %}<p>{{ post.description }}</p>{% endif %}
+	  	{% if post.image %}<span class="image fit"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
 <!-- 		{% if post.date %}<p>{{ post.date }}</p>{% endif %} -->
 	  <p>{{ post.content }}</p>
 	  {% endif %}
