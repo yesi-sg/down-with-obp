@@ -20,12 +20,12 @@ image: assets/images/banner-ny-giants.png
 			<br> <a class="icon alt fa-user">..... Nate</a> <br>
 			<br>
 			</span>
-		
+
 		</div>
 		<!-- Amanda -->
 		<div class="4u">
 			<center><h3>Ready to Win</h3></center>
-			<span class="image fit"><img src="assets/images/teams-amanda-2.png" alt=""/></span>
+			<!--<span class="image fit"><img src="assets/images/teams-amanda-2.png" alt=""/></span> -->
 			<span>
 			<a class="icon alt fa-map-marker" > Sacramento, CA</a>
 			<br> <a class="icon alt fa-trophy"> 1st, 2018</a>
@@ -37,7 +37,7 @@ image: assets/images/banner-ny-giants.png
 		<!-- Wild -->
 		<div class="4u$">
 			<center><h3>Good King Wenceslas</h3></center>
-			<span class="image fit"><img src="assets/images/teams-wild.png" alt=""/></span>
+			<!-- <span class="image fit"><img src="assets/images/teams-wild.png" alt=""/></span> -->
 			<span>
 			<a class="icon alt fa-map-marker" > Seattle, WA</a>
 			<br> <a class="icon alt fa-trophy"> 1st, 2016</a>
@@ -49,7 +49,7 @@ image: assets/images/banner-ny-giants.png
 		<!-- Sean -->
 		<div class="4u">
 			<center><h3>Oh Oh Oh Tani </h3></center>
-			<span class="image fit"><img src="assets/images/teams-sean.png" alt="" /></span>
+			<!-- <span class="image fit"><img src="assets/images/teams-sean.png" alt="" /></span> -->
 			<span>
 			<a class="icon alt fa-map-marker" > Seattle, WA</a>
 			<br> <a class="icon alt fa-trophy"> 2nd, 2018</a>
@@ -61,7 +61,7 @@ image: assets/images/banner-ny-giants.png
 		<!-- Josh -->
 		<div class="4u">
 			<center><h3>The Balking Dead</h3></center>
-			<span class="image fit"><img src="assets/images/teams-josh-2.png" alt=""/></span>
+			<!-- <span class="image fit"><img src="assets/images/teams-josh-2.png" alt=""/></span> -->
 			<span>
 			<a class="icon alt fa-map-marker" > Sacramento, CA</a>
 			<br> <a class="icon alt fa-trophy"> 3rd, 2018</a>
@@ -73,7 +73,7 @@ image: assets/images/banner-ny-giants.png
 		<!-- Ryan -->
 		<div class="4u">
 			<center><h3>King In The East?</h3></center>
-			<span class="image fit"><img src="assets/images/teams-ryan.png" alt="" /></span>
+			<!-- <span class="image fit"><img src="assets/images/teams-ryan.png" alt="" /></span> -->
 			<span>
 			<a class="icon alt fa-map-marker" > Washington, DC</a>
 			<br> <a class="icon alt fa-trophy"> 2nd, 2017</a>
@@ -85,7 +85,7 @@ image: assets/images/banner-ny-giants.png
 		<!-- Kevin -->
 		<div class="4u">
 			<center><h3>Lil' Haynes</h3></center>
-			<span class="image fit"><img src="assets/images/teams-kevin.png" alt="" /></span>
+			<!-- <span class="image fit"><img src="assets/images/teams-kevin.png" alt="" /></span> -->
 			<span>
 			<a class="icon alt fa-map-marker" > Redmond, WA</a>
 			<br> <a class="icon alt fa-trophy"> NA</a>
@@ -97,7 +97,7 @@ image: assets/images/banner-ny-giants.png
 		<!-- Yesi -->
 		<div class="4u">
 			<center><h3>Mad Bummer</h3></center>
-			<span class="image fit"><img src="assets/images/teams-yesi.png" alt="" /></span>
+			<!-- <span class="image fit"><img src="assets/images/teams-yesi.png" alt="" /></span> -->
 			<span>
 			<a class="icon alt fa-map-marker" > Seattle, WA</a>
 			<br> <a class="icon alt fa-trophy"> 2nd, 2016</a>
@@ -109,7 +109,7 @@ image: assets/images/banner-ny-giants.png
 		<!-- Nichole -->
 		<div class="4u$">
 			<center><h3>Team Has No Name</h3></center>
-			<span class="image fit"><img src="assets/images/teams-nichole.png" alt="" /></span>
+			<!-- <span class="image fit"><img src="assets/images/teams-nichole.png" alt="" /></span> -->
 			<span>
 			<a class="icon alt fa-map-marker" > Seattle, WA</a>
 			<br> <a class="icon alt fa-trophy"> 1st, 2017</a>
@@ -121,7 +121,7 @@ image: assets/images/banner-ny-giants.png
 		<!-- Andy -->
 		<div class="4u">
 			<center><h3>Warren</h3></center>
-			<span class="image fit"><img src="assets/images/teams-andy.png" alt="" /></span>
+			<!-- <span class="image fit"><img src="assets/images/teams-andy.png" alt="" /></span> -->
 			<span>
 			<a class="icon alt fa-map-marker" > Tempe, AZ</a>
 			<br> <a class="icon alt fa-trophy"> 3rd, 2016</a>
@@ -137,6 +137,6 @@ image: assets/images/banner-ny-giants.png
 <!--	</div>
 </div> -->
 
-<!-- SECOND SET 
+<!-- SECOND SET
 <div class="box alt">
 	<div class="row 25% uniform"> -->
