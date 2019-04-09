@@ -14,12 +14,8 @@ country: United States of America
 phone:
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: pages, posts # accepts "posts" or "pages"
 tiles-count: 3
-
-# post tiles
-tiles-post-source: posts
-tiles-post-count: 2
 
 # social settings
 espn_url: http://fantasy.espn.com/baseball/league?leagueId=96224/
