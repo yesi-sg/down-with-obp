@@ -3,6 +3,6 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 *.gem
-code/
-data/
-_reference/
+code
+data
+_reference
