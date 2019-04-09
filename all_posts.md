@@ -1,5 +1,5 @@
 ---
-layout: recaps
+layout: allposts
 title: Recaps
 landing-title: 'All Recaps'
 nav-menu: true
