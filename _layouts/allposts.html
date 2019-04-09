@@ -24,7 +24,7 @@
 	    <header class="major">
 	      <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
 		<p>{{ post.description }}</p>
-		{% if post.image %}<<a href="{{ post.url  | relative_url }}"><span class="image fit"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>
+		{% if post.image %}<a href="{{ post.url  | relative_url }}"><span class="image fit"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>
 	    </header>
 		<p>{{ post.content }}</p>
 	  {% endif %}
