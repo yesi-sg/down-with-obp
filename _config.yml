@@ -19,7 +19,7 @@ tiles-count: 4
 
 # social settings
 espn_url: http://fantasy.espn.com/baseball/league?leagueId=96224/
-recaps_url: https://downwithobp.com/recaps.html
+recaps_url: https://downwithobp.com/all_posts.html
 fangraphs_url: https://www.fangraphs.com/
 scores_url: https://www.mlb.com/scores/
 schedule_url: http://mlb.mlb.com/mlb/schedule/
