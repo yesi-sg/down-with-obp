@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: home
 title: Teams
 description: Meet your 2019 competition
 nav-menu: true
