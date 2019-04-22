@@ -44,7 +44,7 @@ It’s been a rough opening series for a lot of teams. Checkout the IL summary b
 ## Meet the teams!
 It’s good to know who pushed you down the ranks or who to thank for raising you higher.
 
-| Team | <a class="icon alt fa-map-marker">  Location </a> | <a class="icon alt fa-trophy"> League Beast</a> | <a class="icon alt fa-thumbs-o-up"> Home Team</a> | <a class="icon alt fa-user"> Street Name </a> |
+| Team | <a class="icon alt fa-map-marker">  Location </a> | <a class="icon alt fa-trophy"> League Best</a> | <a class="icon alt fa-thumbs-o-up"> Home Team</a> | <a class="icon alt fa-user"> Street Name </a> |
 | :------------- | :------------- | :--------------| :--------------| :--------------|
 | Smitha    | Seattle, WA       | 1st, 2015 | San Francisco Giants | Nate |
 | Ready to Win Again| Sacramento, CA | 1st, 2018 | Oakland A's | Amanda |
@@ -56,3 +56,5 @@ It’s good to know who pushed you down the ranks or who to thank for raising yo
 | Mad Bummer | Seattle, WA | 2nd, 2016 | San Francisco giants | Yesi |
 | Team Has No Name | Washington, D.C. | 1st, 2017 | Seattle Mariners| Nichole |
 | Warren | Tempe, AZ | 3rd, 2016 | Seattle Mariners | Andy |
+
+![Go to Teams page](https://downwithobp.com/teams.html)
