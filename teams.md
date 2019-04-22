@@ -6,9 +6,9 @@ nav-menu: true
 image: assets/images/banner-ny-giants.png
 ---
 
-| Team | <a class="icon alt fa-map-marker"> Location </a> | <a class="icon alt fa-trophy"> League Beast</a> | <a class="icon alt fa-thumbs-o-up"> Fave Team</a> | <a class="icon alt fa-user"> Street Name </a> |
+| Team | <a class="icon alt fa-map-marker"> Location </a> | <a class="icon alt fa-trophy"> League Best</a> | <a class="icon alt fa-thumbs-o-up"> Rooting Team</a> | <a class="icon alt fa-user"> Street Name </a> |
 | :------------- | :------------- | :--------------| :--------------| :--------------|
-| Smitha    | Seattle, WA       | 1st, 2015 | SF Giants | Nate |
+| Smitha    | Seattle, WA       | 1st, 2015 | ![team](/assets/images/mlb-giants.jpg) | Nate |
 | Ready to Win Again| Sacramento, CA | 1st, 2018 | Oakland A's | Amanda |
 | Good King Wenceslas | Seattle, WA | 1st, 2016 | Seattle Mariners | Jake |
 | Oh Oh Oh Tani | Seattle, WA | 2nd, 2018 | Seattle, Mariners | Sean |
