@@ -5,7 +5,7 @@ description: Meet your 2019 competition
 nav-menu: true
 image: assets/images/banner-ny-giants.png
 ---
-| Team | <a class="icon alt fa-map-marker"> Location </a> | <a class="icon alt fa-trophy"> League Beast</a> | <a class="icon alt fa-thumbs-o-up"> Home Team</a> | <a class="icon alt fa-user"> Street Name </a> |
+| Team | <a class="icon alt fa-map-marker"> Location </a> | <a class="icon alt fa-trophy"> League Best</a> | <a class="icon alt fa-thumbs-o-up"> Home Team</a> | <a class="icon alt fa-user"> Street Name </a> |
 | :------------- | :------------- | :--------------| :--------------| :--------------|
 | Smitha    | Seattle, WA       | 1st, 2015 | San Francisco Giants | Nate |
 | Ready to Win Again| Sacramento, CA | 1st, 2018 | Oakland A's | Amanda |
