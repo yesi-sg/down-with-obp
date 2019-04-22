@@ -15,7 +15,7 @@ image: assets/images/banner-ny-giants.png
 | King in the East |  Washington, D.C. |2nd, 2017 | Seattle Mariners | Ryan |
 | Larry Bernandez | NA | Redmond, WA | Seattle Mariners | Kevin |
 | Mad Bummer | Seattle, WA | 2nd, 2016 | San Francisco giants | Yesi |
-| Team Has No Name | Washington, D.C. | 1st, 2017 | Seattle | Nichole |
+| Team Has No Name | Washington, D.C. | 1st, 2017 | Seattle Mariners| Nichole |
 | Warren | Tempe, AZ | 3rd, 2016 | Seattle Mariners | Andy |
 
 
