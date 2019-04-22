@@ -17,7 +17,7 @@ image: assets/images/banner-ny-giants.png
 | Larry Bernandez | NA | Redmond, WA | ![Seattle Mariners](/assets/images/mlb-seattle.jpg) | Kevin |
 | Mad Bummer | Seattle, WA | 2nd, 2016 | ![SF giants](/assets/images/mlb-giants.jpg) | Yesi |
 | Team Has No Name | Washington, D.C. | 1st, 2017 | ![Seattle Mariners](/assets/images/mlb-seattle.jpg) | Nichole |
-| Warren | Tempe, AZ | 3rd, 2016 | ![Seattle Mariners](/assets/images/mlb-mariners.jpg) | Andy |
+| Warren | Tempe, AZ | 3rd, 2016 | ![Seattle Mariners](/assets/images/mlb-seattle.jpg) | Andy |
 
 
 _all images on this page sourced from [sportslogos.net](http://www.sportslogos.net/teams/list_by_year/42019/2019_MLB_Logos/)_
