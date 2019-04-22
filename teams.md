@@ -18,3 +18,6 @@ image: assets/images/banner-ny-giants.png
 | Mad Bummer | Seattle, WA | 2nd, 2016 | SF giants | Yesi |
 | Team Has No Name | Washington, D.C. | 1st, 2017 | Seattle | Nichole |
 | Warren | Tempe, AZ | 3rd, 2016 | Seattle Mariners | Andy |
+
+
+_all images on this page sourced from [sportslogos.net](http://www.sportslogos.net/teams/list_by_year/42019/2019_MLB_Logos/)_
