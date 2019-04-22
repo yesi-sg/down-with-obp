@@ -43,7 +43,8 @@ It’s been a rough opening series for a lot of teams. Checkout the IL summary b
 
 ## Meet the teams!
 It’s good to know who pushed you down the ranks or who to thank for raising you higher.
-| Team | <a class="icon alt fa-map-marker"> Location </a> | <a class="icon alt fa-trophy"> League Beast</a> | <a class="icon alt fa-thumbs-o-up"> Home Team</a> | <a class="icon alt fa-user"> Street Name </a> |
+
+| Team | <a class="icon alt fa-map-marker">  Location </a> | <a class="icon alt fa-trophy"> League Beast</a> | <a class="icon alt fa-thumbs-o-up"> Home Team</a> | <a class="icon alt fa-user"> Street Name </a> |
 | :------------- | :------------- | :--------------| :--------------| :--------------|
 | Smitha    | Seattle, WA       | 1st, 2015 | San Francisco Giants | Nate |
 | Ready to Win Again| Sacramento, CA | 1st, 2018 | Oakland A's | Amanda |
